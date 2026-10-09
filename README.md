@@ -139,7 +139,7 @@ Open the local URL displayed in your terminal.
 
 ## 🌐 Live Demo
 
-**Streamlit App:** [Add your deployed AeroAssist AI URL here]
+**Streamlit App:** aeroassist-ai-rag ∙ clean-deploy ∙ app.py
 
 **GitHub Repository:** [AeroAssist-AI-RAG](https://github.com/Minal-2007/AeroAssist-AI-RAG)
 
